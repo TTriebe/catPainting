@@ -14,3 +14,11 @@ body{
     top: 100px;
     left: 100px;
 } 
+.box{
+    width: 200px;
+    height: 600px;
+    background-color: #000;
+    position: absolute;
+    top: 800px;
+    left: 650px;
+}
