@@ -85,3 +85,8 @@ body{
     transform: rotate(-25deg);
     left: 134px;
 }
+.cat-left-inner-eye{
+    width: 10px;
+    height: 20px;
+    background-color: #fff;
+}
