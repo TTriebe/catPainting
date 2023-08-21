@@ -81,5 +81,7 @@ body{
     background-color: #000;
     position: absolute;
     top: 54px;
+    border-radius: 60%;
+    transform: rotate(-25deg);
     left: 134px;
 }
